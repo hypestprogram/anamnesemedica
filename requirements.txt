@@ -5,4 +5,4 @@ python-dotenv==1.0.0
 gunicorn
 Werkzeug==2.2.3
 streamlit==1.27.0  # Adicionando Streamlit
-streamlit-webrtc==0.37.2  # Para captura de áudio via WebRTC
+streamlit-webrtc==0.36.1  # Para captura de áudio via WebRTC (versão compatível)
